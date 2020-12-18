@@ -67,4 +67,9 @@ body::after{
 .container .card .content{
     padding 20px;
     text-align: center;
+    transition: 0.5s;
+}
+.container .card .content h2{
+    top:-80px;
+    right: 30px;
 }
